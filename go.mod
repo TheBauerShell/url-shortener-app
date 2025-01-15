@@ -1,3 +1,5 @@
-module url-shortener-app
+module github.com/TheBauerShell/url-shortener-app
 
 go 1.23
+
+require github.com/mattn/go-sqlite3 v1.14.24
